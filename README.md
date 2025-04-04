@@ -1,73 +1,63 @@
+# 🧾 Tela de Cadastro de Usuário – Full Stack
 
-# Tela de cadastro de Usuário
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AndersonGFrota/converso-de-moedas/blob/main/LICENSE) 
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/AndersonGFrota/Tela-Cadastro-Usu-rio/blob/main/LICENSE)
+[![Author](https://img.shields.io/badge/Autor-Anderson%20Frota-lightgrey)](https://www.linkedin.com/in/andersongfrota)
 
+## 📄 Sobre o projeto
 
-# Sobre o projeto
+A **Tela de Cadastro de Usuário** é uma aplicação fullstack desenvolvida durante o curso **DevClub**, com objetivo de aplicar conceitos de front-end, back-end e integração com banco de dados em um sistema completo de cadastro e listagem de usuários.
 
+O projeto conta com:
 
-Tela de usuário é aplicação full stack web e mobile construída durante aulas do DevClub, curso organizado pela [DevClub](https://rodolfomori.com.br/devclub-n1/ "Site da DevClub").
+- Criação de API com **Node.js** e **Express**
+- Integração com banco de dados **MongoDB**
+- Interface com **ReactJS** (web) e **React Native** (mobile)
+- Manipulação de estado e refs com **React Hooks**
+- Comunicação com API (consumo, criação e remoção de usuários)
 
+---
 
-Neste projeto, foi desenvolvido uma API do zero utilizando Node.js. 
+## ⚙️ Funcionalidades
 
-configurei o ambiente de desenvolvimento, incluindo a instalação do Node.js e do npm. 
+- Cadastro de novos usuários  
+- Listagem de usuários cadastrados  
+- Remoção de usuários  
+- Integração completa com backend  
+- Consumo da API via axios/fetch  
+- Tratamento de CORS, rotas e dados  
 
-Em seguida,  criei um servidor utilizando o Express, definido rotas e conectando a um banco de dados, o MongoDB.
+---
 
-Começamos com os conceitos básicos, passando pela criação de componentes e gerenciamento de estado, até chegar à integração com um back-end e o consumo de APIs.
+## 🧩 Tecnologias utilizadas
 
-No final, temos uma API funcional e a criação de uma aplicação completa, conectando o front-end ao back-end.
+### 🔹 Back-end:
+- Node.js  
+- Express  
+- MongoDB  
+- Prisma (Documentação)
 
-- Ferramentas para React
+### 🔹 Front-end:
+- HTML5 / CSS3 / JavaScript  
+- TypeScript  
+- ReactJS  
+- React Native  
 
-- Estrutura do React
+---
 
-- Criação do React (Esqueleto)
+## 🖼️ Visual do projeto
 
-- Dividindo as paginas 
+### Layout Web  
+![Web](https://github.com/AndersonGFrota/Tela-Cadastro-Usu-rio/blob/main/Macbook-Air-localhost%20(1).png)
 
-- Criando o Cadastro (primeiro HTML)
+### Mockup  
+![Modelo](https://github.com/AndersonGFrota/Tela-Cadastro-Usu-rio/blob/main/Beige%20Brown%20Aesthetic%20Save%20The%20Date%20Editable%20Mockup%20Instagram%20Post%20(1).png)
 
-- Conectando o Front End com o Back End 
+---
 
-- Erro "Cors"
+## 👨‍💻 Autor
 
-- Trocando dados
+Desenvolvido por **Anderson Frota Gonçalves**  
+[LinkedIn](https://www.linkedin.com/in/andersongfrota)  
+[GitHub](https://github.com/AndersonGFrota)
 
-- React Hooks (useState)
-
-- React Hooks (useRef)
-
-- Deletar Usuários 
-
-
-## Layout web
-![Web 1](https://github.com/AndersonGFrota/Tela-Cadastro-Usu-rio/blob/main/Macbook-Air-localhost%20(1).png)
-
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/AndersonGFrota/Tela-Cadastro-Usu-rio/blob/main/Beige%20Brown%20Aesthetic%20Save%20The%20Date%20Editable%20Mockup%20Instagram%20Post%20(1).png)
-
-# Tecnologias utilizadas
-## Back end
-- Node
-- MangoDB
-- Express
-- Prisma/docs
-
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-
-
-
-
-
-
-# Autor
-
-Anderson frota Goncalves
-
-https://www.linkedin.com/in/anderson-frota-0016482aa/
+---
